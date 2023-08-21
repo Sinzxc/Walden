@@ -45,7 +45,7 @@ nav{
     margin: 0 auto;
 }
 .index_section{
-    background: url("/img/index.png")no-repeat fixed;
+    background: url("../img/index.png")no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -126,7 +126,7 @@ nav a{
     line-height: 21px;
 }
 .gong{
-    background: url("/img/gong.png")no-repeat ;
+    background: url("../img/gong.png")no-repeat ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -195,7 +195,7 @@ nav a{
     font-size: 12px;
 }
 .self{
-    background: url("/img/self.png")no-repeat ;
+    background: url("../img/self.png")no-repeat ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
